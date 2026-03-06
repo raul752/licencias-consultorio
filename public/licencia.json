@@ -1,0 +1,15 @@
+{
+  "provider": "github-pages",
+  "payload": {
+    "schema_version": 1,
+    "license_id": "CUALQUIERA",
+    "programa": "CUALQUIERA",
+    "estado": "ACTIVA",
+    "fecha_vencimiento": "20/3/2026",
+    "precio": "74.750",
+    "hardware_id": "",
+    "issued_at": "2026-03-06T21:51:54Z"
+  },
+  "signature": "rBl/Y4U2wbDktAfe2huXSscY2Nu1i0dHVzB/EHlCGn89VS2ti5NsOByJrvD5wcIeaHpl4anDZjDaM8/YQz+t3G0QpD/Uccf5YNDAmNrVBRfRY3/7dIyE72kCaMZ9KHYM5zXrj+kl4CZMTxslnIj0TOUOuKQxpC0hr9KxgVHvhIy4KmmaPXheiNn5EeiHvcedjbMYBFgOSIVhegVy+5jGQl1BEBCc6g75XUkHad1dZ6MsKaYp4cYrdGns9Qj9csY2EbtCqs0W3EiWiuRZPY/1tB7qfDhvBt7FZh9z6kMAeVrFyXfGzEv7TaELpWPLbCRcrdxt3JwKKkynWJJ276nulQ==",
+  "signature_alg": "RSA-SHA256"
+}
