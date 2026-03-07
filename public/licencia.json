@@ -2,7 +2,7 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T04:03:44Z",
+    "issued_at": "2026-03-07T04:04:00Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 300,
     "licenses": [
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "signature": "tJeNYVfmeaS23yBjzESxxrNZZReVMHoX/KEYrJ25VTeWj8MRyqAqe3wXk3L3+1l9yzmpyHOkkmUtMHdvJ4hXKkKqGhjmXF+1hEtrgB2J38R7NHmIvAYR2F+dRhBZE++hiHwRlvRPaG7qUTB21QjhOMJ+0Tz/3Qh99Aa53qrwFlPXbBWHJsGVd55lT8dh6s0j67Dtnn6TwbZ9p1Y7tIkTWTdcOLwTgFuUALVSJPPYRh9yITt7qUXCXRv0bDi5Bi3hPIXKrayVMh39m9LiKwFI/lL1sNVKxRz2rn9axESmu5QghIoCea3CBpCFENE6ua/Cfub4yZptUxJ4XyT5VYwTlQ==",
+  "signature": "rwRbchG83YYzA+9a4OaMi9WFBJtblBn4h9Gmpb6t67MqVJ314Hgp6RrREApPztQrUKeb/JN7a6b8XviDyyMoVgVi3vBJjXLqdk1dJLyOoek/iVnJHnxuYvnKqrArGHnfgF6CTudr/KQmz+ZdQmtfU53q60qGopLwORa1rJlax7/eEsBXmYTAsyAGorpUaGOxtfIoEUkpE0/w27J4d4fu2HbYr+8WJkEAmGFnTE/BhnAYrGyvI3VXVtmQLiH7kyGDzhqK4Dy7tLo2cNSMmpQf14xBXZHyjFvAWHB4Pj03XCZeNQ52pyZYvPZCuZUbjbZ3Ayd9QYDjGMvgM4WteNxD1g==",
   "signature_alg": "RSA-SHA256"
 }
