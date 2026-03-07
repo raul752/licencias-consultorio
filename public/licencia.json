@@ -2,10 +2,58 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T01:21:15Z",
+    "issued_at": "2026-03-07T01:55:55Z",
     "cache_ttl_seconds": 900,
     "offline_grace_default_seconds": 21600,
     "licenses": [
+      {
+        "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
+        "cliente": "CLIENTE",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "11/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 21600
+      },
+      {
+        "license_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
+        "cliente": "CLIENTE",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 21600
+      },
+      {
+        "license_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
+        "cliente": "GINO",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/3/2026",
+        "precio": "74.750",
+        "hardware_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 21600
+      },
+      {
+        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "cliente": "FRUTI",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 21600
+      },
       {
         "license_id": "LICENCIA_GENERAL",
         "cliente": "CLIENTE",
@@ -20,6 +68,6 @@
       }
     ]
   },
-  "signature": "Bl1MnQBUrUn73zEwk9tHo3cTj5+Xm9a2jRiYpfxKYyyUXZyniQ6wmqcetY5FJpHcbUVjZBwKhauJjqy6tVw27nAHggAcyt8g2R8r3pP+ryrt28jp9Y7sl1IwLS0IguJrJd+q2PqIje3fsqi17Ce67lTG2HGpgPn9dYUJgsiuHcN8thIdIkRt9NaPtY35RBYbg8CzpC3+0zwPED29ReqtvBY9etxToLVfzpcddqR/MFhBWNZn2KvupXJ3ZLld0eo9rESgSJ7Ml1uw4B+UiBh3FrqVPzQSYQGqJCA9u43u8I84h0X0TLx/7uTiQ5p8xuAdO6aabXUbQc1bZ1vT2naUkg==",
+  "signature": "SbZUnDiD/oWfxsE5+aGcFGMMQFNSgxfSE6S2W3jHpGRMIgoeh07cZ6gOM5X2h5tv1T9RGi7rtl749MRbj7ldpQUXNE///63IsGTfJKQeP8wzgHul/LFx/qJuHPi2T3DqK00Wj1yTtPWR3Gt8XkOPHQDrQYlm8Q2EsIOowspv5Zb9xigQ4L18+Bs1GaMY1Sp6AA2xlm94Qv1imO1PjLi1JKS/mhRRBK8bI8ikws6TOhCXy3OUVcBoWY01F0rXJcUmtRc5k8YOpFx5TG6ZxQFUi7e8fz3IVToCQoD/ubkxL9fWNnbB1ErhCMmw0Tw1qfIvi1bU4cBfBfbD4ddnX+2cYA==",
   "signature_alg": "RSA-SHA256"
 }
