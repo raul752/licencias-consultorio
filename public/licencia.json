@@ -8,8 +8,8 @@
     "fecha_vencimiento": "18/3/2026",
     "precio": "74.750",
     "hardware_id": "",
-    "issued_at": "2026-03-06T23:57:28Z"
+    "issued_at": "2026-03-07T00:01:49Z"
   },
-  "signature": "TJsdfhpudyMl9zaMUPVO9E3+rR86x8Z0lCmnRll3udzRPIpETIutTf1sGvXFxsAWUIuLsDeD9ojKLY2EFtjvs7GYct1F7ZLQrZnQWvj51vTzP8rDhzHtO8++R4wDErxeldlgiMJyi/npCnkMS21F4N/IR5PMwY3S/jng4QW+8MpXRu/l8ghR0cnINLLM+i/veCZyI3Rd938mH8HgKrshaW8/Kp/yxedvEi2dhgaxEgH1+U/XFzRvOOK+C22caRtst19wHDqdMo8uyYRNKblP9st2yLU5EcXm9AV2mPwT5kfTKk3Vb7FhHbpEi6r3PC1NYp1WU0PjQbjWXr6FdkhbSQ==",
+  "signature": "ftUFMbAi/R7E2TLr4aFpYJkW3MQQw9R44GtpWqy+qKomyk/iDZepnw1muvY6XWFqxO9Kl78H42ISDiYGuw7GIAdbj/bLFQe6XqCKsL9qsvF6HyFGs4zgLVrvY5pOM7L0hf27U6ovVvANWzC+169S9QiDMX0560io7HFPxLMSJOgRJHnMUGVuzrW3HhQ6/zy6sJvW95gUJbjoC+EtripsyvyUzmj9enYXCu99rQzZ45TEqFjXCEoHuIlS614Q8nLW159U53IjybpdimH9asFd+pPJ26Ki3c4riC9TiU7FTxpV59HihXsW/oPSXMpqQ/gMwdEFrymsLddgGYIC5TX5Lg==",
   "signature_alg": "RSA-SHA256"
 }
