@@ -2,7 +2,7 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T01:55:55Z",
+    "issued_at": "2026-03-07T02:02:40Z",
     "cache_ttl_seconds": 900,
     "offline_grace_default_seconds": 21600,
     "licenses": [
@@ -11,7 +11,7 @@
         "cliente": "CLIENTE",
         "programa": "MEDICO",
         "estado": "ACTIVA",
-        "fecha_vencimiento": "11/3/2026",
+        "fecha_vencimiento": "11/2/2026",
         "precio": "74.750",
         "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
         "hardware_aliases": [],
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "signature": "SbZUnDiD/oWfxsE5+aGcFGMMQFNSgxfSE6S2W3jHpGRMIgoeh07cZ6gOM5X2h5tv1T9RGi7rtl749MRbj7ldpQUXNE///63IsGTfJKQeP8wzgHul/LFx/qJuHPi2T3DqK00Wj1yTtPWR3Gt8XkOPHQDrQYlm8Q2EsIOowspv5Zb9xigQ4L18+Bs1GaMY1Sp6AA2xlm94Qv1imO1PjLi1JKS/mhRRBK8bI8ikws6TOhCXy3OUVcBoWY01F0rXJcUmtRc5k8YOpFx5TG6ZxQFUi7e8fz3IVToCQoD/ubkxL9fWNnbB1ErhCMmw0Tw1qfIvi1bU4cBfBfbD4ddnX+2cYA==",
+  "signature": "s4zp6w5+NOHLzLxKcVBHXzRpMbqN8HmoeuYdqpBJ6FUcFqI8Mo1WrOdyBP/zAd5aIuzmjmjkv9f08VnNooIFcxCSeevekXN6VWR/6u7I54AmswMy6wG6w52Mm51UO8kOw0ywtZSn1EK86Od2ow1CXNUaWTx7QhPz3eOuIYaRRrHkW0x7L9UjpLQWs2ORXwEXKQlds0VQcynxDRkb6KD4BLkRSs1msyoCD3ElkUDRxzvwaWoZJdCKZKH23VcfAhltUZwJYIZp7PBR09SidFDoBnpLZGCBF+k4SCCT02eyDiMC/HVJ0lfzGmPckKeYetA2X3yBjy30NNQB2+GGrZBpCQ==",
   "signature_alg": "RSA-SHA256"
 }
