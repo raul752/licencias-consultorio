@@ -2,10 +2,22 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T02:07:56Z",
+    "issued_at": "2026-03-07T02:19:01Z",
     "cache_ttl_seconds": 900,
     "offline_grace_default_seconds": 21600,
     "licenses": [
+      {
+        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "cliente": "FRUTI",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "20/5/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 21600
+      },
       {
         "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
         "cliente": "CLIENTE",
@@ -43,18 +55,6 @@
         "offline_grace_seconds": 21600
       },
       {
-        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "cliente": "FRUTI",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "20/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 21600
-      },
-      {
         "license_id": "LICENCIA_GENERAL",
         "cliente": "CLIENTE",
         "programa": "CUALQUIERA",
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "signature": "aZ6J6zL6U4noWFAtJiLpPQfFbJOGRVbWL38lD/FqcU+LAJ7UBNcX7JPpOgoxrcbrtUc91iD0kRcNUPzNI3d6GwzRLWgJ3c+MNkn1truZThct6aSnCDFEW8tL6vh9G7XcAum47cVh7DgRgK8sd8IWBiH5JE+eOMwhSWcgV1tueN/Mw1lkMfwudBDPKa/P0lpZjBHJaCMBpEi7+U6NirhknLMnNkRNMlYtAjAypYv57NNYsZejjWamsywPZaIzcOWNb+7IaDs9EXh2BpS6hi4B3yKRPMMpvY/kjQ7sJuA+fG1PFS6VZ2Z/5TOa+4+Bt/M+6mlRq9i42VbEJCUloLv8vA==",
+  "signature": "CRHuwMbE+xyM6ZKVm6Zcn/KRDdvZH6e99vNj3o51/FudozPU/tP5LbsRhLXCWzaV9YI2kjpJ6OZArKKrMdunKTY+IwselzOI3iDPz0Y/CcG79VdPzX9451pqsw21w7w2Bpqxe7aXnsRGZXnx5FjISUBm7IyrA4zujFIEfJDgmLxAhPcD3NDgWogBx8cIVv9lJjZik5boONUrt8/ShkYUo705gd264VV6cPfOrpnbCQSRR+8mA7f8A3bvGxwp0h4b4oXqeET3c5WzPIhNlijd5pp2hPzX/gpFqaxlKagJvMFsI/dS8UORC7z//E1MgrggyP5BKTqn0So5VsineRbi0g==",
   "signature_alg": "RSA-SHA256"
 }
