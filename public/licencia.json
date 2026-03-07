@@ -2,22 +2,10 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T02:21:51Z",
-    "cache_ttl_seconds": 900,
-    "offline_grace_default_seconds": 21600,
+    "issued_at": "2026-03-07T03:01:49Z",
+    "cache_ttl_seconds": 60,
+    "offline_grace_default_seconds": 300,
     "licenses": [
-      {
-        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "cliente": "FRUTI",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "20/4/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 21600
-      },
       {
         "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
         "cliente": "CLIENTE",
@@ -28,7 +16,7 @@
         "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
         "hardware_aliases": [],
         "activo": true,
-        "offline_grace_seconds": 21600
+        "offline_grace_seconds": 300
       },
       {
         "license_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
@@ -40,7 +28,7 @@
         "hardware_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
         "hardware_aliases": [],
         "activo": true,
-        "offline_grace_seconds": 21600
+        "offline_grace_seconds": 300
       },
       {
         "license_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
@@ -52,7 +40,19 @@
         "hardware_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
         "hardware_aliases": [],
         "activo": true,
-        "offline_grace_seconds": 21600
+        "offline_grace_seconds": 300
+      },
+      {
+        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "cliente": "FRUTI",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "20/4/2027",
+        "precio": "74.750",
+        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 300
       },
       {
         "license_id": "LICENCIA_GENERAL",
@@ -64,10 +64,10 @@
         "hardware_id": "",
         "hardware_aliases": [],
         "activo": true,
-        "offline_grace_seconds": 21600
+        "offline_grace_seconds": 300
       }
     ]
   },
-  "signature": "FdyBF7oDzrR1kBTgFgTFufvqh8hSF+KJr4JRGTPUaHmKT8fBpPL3Rb4bvAhwmS3KvDZtpxzhNCUUU6s760eugmUeX+8srY6WekhKrlBWhrPs22tgJ15ucGlXiTUIpcqZUh0JzrOuyXsVuf+y2Kz0f6pAWpI0k3tHQt3LKg5aBO3tDDfscTEm6mtYLNqAQRRdS+thQNTAVlgOPfcMGOU+j5vEZq66df/HprDe0BF0RxM3DOq/PKKAsWnWRN4cleoyKRvdOa45CwTS+iLQCgg4EeBSHQXMeylb5hoPNhU6a4OhqWHVv6effddCyP/tRo9Pj2YVEn2DQN/tg5qNdIN/Ew==",
+  "signature": "YlLHXXGHJimA64c9Kr/Qztq364AtY8nOy+X9wxWfhKYLzdphSmR25R3PBXk40UHWcL/5eO6iLUtcrUK32yeS5OZ6MYDZk32zsCMF22lSHC0ML5oOQkGR69VBL0t3r9geOxoWCBQvxbfKRaeprbHyOpOLIgtjFGbKlMsvpng6W0oszq/wtGzoIvuoCwRub//Q4FwOC3GqoyXf/qH1hwzEY15Ny1Ylz0yU1WKo+Vhsgt8eeMZSarumh9QBaz9a0Xjhjo0j5rtE494ptZMJkvJX9wRACxaTyi/9AJxMPb3tsuLcMH3cHvTaoE5NzSnWYrMfjymTWu1xlB75NQ/D5CsaLA==",
   "signature_alg": "RSA-SHA256"
 }
