@@ -2,14 +2,26 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T21:04:33Z",
+    "issued_at": "2026-03-07T21:15:13Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 86400,
     "licenses": [
       {
+        "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
+        "cliente": "CLIENTE",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 86400
+      },
+      {
         "license_id": "HW_86C28570-976D-0000-0000-000000000000",
         "cliente": "FRUTI",
-        "programa": "MEDICO",
+        "programa": "SECRETARIA 1",
         "estado": "ACTIVA",
         "fecha_vencimiento": "10/3/2026",
         "precio": "74.750",
@@ -35,7 +47,7 @@
         "cliente": "GINO",
         "programa": "MEDICO",
         "estado": "ACTIVA",
-        "fecha_vencimiento": "10/3/2026",
+        "fecha_vencimiento": "20/3/2026",
         "precio": "74.750",
         "hardware_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
         "hardware_aliases": [],
@@ -56,6 +68,6 @@
       }
     ]
   },
-  "signature": "c4tDug6kxce8UBdCeMK9j7hiIzCPV5xaWjspOoqAND1NzXPwaf7Tbtva1w3xW8PYqJ/WfLFSAOq+JBcKazAekKjQjOfD2UR9dGE46QqCiaRpPTx5zNstHAQQefB/Og1t1cMOTRQmAolfVYeT2dxt59rUFLniDVI2wET7qaq+lVECVLYqMgWjzvVqyBIqWRW/z+wNEAhoNAGLErMJ42vKP6gWUSG1Ufh7FKcfkY0c8Fk4kwSPaH8QFB+Xr0IUDNZjp9D/qmEkMnjx3WaycjCKNRs+tD14/atRZtuSqHf6d+mQoMV6PYGkiBsFzD7+caYhsoPfMYGTE0FYNnlphplUww==",
+  "signature": "c7UySNpLmkaJiR9clgAH+bWQ/tuSTuuY/6dfbMYM3EpeL6rJ68pCv1DjQsczYjROHIJS7bvFJx7Nv3fGGdDLHV3QDc6j3HkA06Xce107hdQt3cM6YUkJ/sIObQofpl4mUOHvMvwKqzfAmvEO22OaW/nRYiIfyrgZOHibFiLgTT2XMk/n6b43zmpuUO5N85skKJsjoyL3c2DQCc0/2TgmtEz/N9r1zmpShWsQ8mJGCTQ2BgXGo7JDd06A80aykvryyBn5dB4IrxZ5msyG1noNPs5MEPZjFY6BzJWiJ7FoKTgtrSwNfWUpemIBaMmP1OrYVxrjLkzzMGV1e+WOc5w2pg==",
   "signature_alg": "RSA-SHA256"
 }
