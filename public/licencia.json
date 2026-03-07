@@ -2,7 +2,7 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T02:20:00Z",
+    "issued_at": "2026-03-07T02:21:51Z",
     "cache_ttl_seconds": 900,
     "offline_grace_default_seconds": 21600,
     "licenses": [
@@ -11,7 +11,7 @@
         "cliente": "FRUTI",
         "programa": "MEDICO",
         "estado": "ACTIVA",
-        "fecha_vencimiento": "20/5/2026",
+        "fecha_vencimiento": "20/4/2026",
         "precio": "74.750",
         "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
         "hardware_aliases": [],
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "signature": "kjF9YIXC7siDrJTQiObCOWo/IGDz5Uln4g+plGO1OTA0lHL6u1mcGi3QIRGsXaH2UjO0Y2fH5JdF3B59Arr++1fwIPc24U0CLUm0u02zuQM6wAh3g4J9ZQxiv8MqLIU2Yg6EM6rtJOJguO+8KbpvuzDcBOt5rxmBCA11H2T8hSFjcpd7JC8+dLGLqG/WxWSSNU0mEMEoCtkOzZjFX+OonXxW/bQ9KrgIohHLbLwXp0IPJUS6R/q1Y1h/NlD0ikZFDdKw0fR+l9AsEXSUeQPpZEfqZIqjkkGq3/0XOxopNBSvl/SUcK146XOBVHzL21L702ruKIZfarutayjotJQAxA==",
+  "signature": "FdyBF7oDzrR1kBTgFgTFufvqh8hSF+KJr4JRGTPUaHmKT8fBpPL3Rb4bvAhwmS3KvDZtpxzhNCUUU6s760eugmUeX+8srY6WekhKrlBWhrPs22tgJ15ucGlXiTUIpcqZUh0JzrOuyXsVuf+y2Kz0f6pAWpI0k3tHQt3LKg5aBO3tDDfscTEm6mtYLNqAQRRdS+thQNTAVlgOPfcMGOU+j5vEZq66df/HprDe0BF0RxM3DOq/PKKAsWnWRN4cleoyKRvdOa45CwTS+iLQCgg4EeBSHQXMeylb5hoPNhU6a4OhqWHVv6effddCyP/tRo9Pj2YVEn2DQN/tg5qNdIN/Ew==",
   "signature_alg": "RSA-SHA256"
 }
