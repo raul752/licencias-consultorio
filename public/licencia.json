@@ -5,11 +5,11 @@
     "license_id": "CUALQUIERA",
     "programa": "CUALQUIERA",
     "estado": "ACTIVA",
-    "fecha_vencimiento": "18/3/2026",
+    "fecha_vencimiento": "10/3/2026",
     "precio": "74.750",
     "hardware_id": "",
-    "issued_at": "2026-03-07T00:01:49Z"
+    "issued_at": "2026-03-07T00:06:18Z"
   },
-  "signature": "ftUFMbAi/R7E2TLr4aFpYJkW3MQQw9R44GtpWqy+qKomyk/iDZepnw1muvY6XWFqxO9Kl78H42ISDiYGuw7GIAdbj/bLFQe6XqCKsL9qsvF6HyFGs4zgLVrvY5pOM7L0hf27U6ovVvANWzC+169S9QiDMX0560io7HFPxLMSJOgRJHnMUGVuzrW3HhQ6/zy6sJvW95gUJbjoC+EtripsyvyUzmj9enYXCu99rQzZ45TEqFjXCEoHuIlS614Q8nLW159U53IjybpdimH9asFd+pPJ26Ki3c4riC9TiU7FTxpV59HihXsW/oPSXMpqQ/gMwdEFrymsLddgGYIC5TX5Lg==",
+  "signature": "NwZWeAadHVJxT4bgJcHPfgm8FJmZag/rQN5Gz6qawPg/pucV899r76Y/f8mWKNm+pQPYKNeVaMCwAaGczn3T9vOZzWF+jgtudwrs5S7RMn9goI9Q8UaKqzrrdVXB/weHAsnv5sCC+6EcqfOis4c/jWqKhGVXKBI8aGSUHSEJSfouRst3C3odlMy3pX2O5G81n7P1Kmg4ztqmHdm/KB87VayHbHf/sjMZVkK4TuUEV5II6w1V+JmZbpOe/gOveTK0ehW4pe1Ol1y8N9ncj2EJCcvaqu7/YGO2x4D0zEyXfcbJlOcwGi/Ujx8ReZ7SVSoiClRd55EZhiUsi/VbKDMoMQ==",
   "signature_alg": "RSA-SHA256"
 }
