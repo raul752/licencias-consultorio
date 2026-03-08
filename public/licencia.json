@@ -2,7 +2,7 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-07T21:23:59Z",
+    "issued_at": "2026-03-08T03:02:20Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 86400,
     "licenses": [
@@ -14,18 +14,6 @@
         "fecha_vencimiento": "20/3/2026",
         "precio": "74.750",
         "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "cliente": "FRUTI",
-        "programa": "SECRETARIA 1",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "10/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
         "hardware_aliases": [],
         "activo": true,
         "offline_grace_seconds": 86400
@@ -55,6 +43,18 @@
         "offline_grace_seconds": 86400
       },
       {
+        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "cliente": "FRUTI",
+        "programa": "PRIMER_INICIO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 86400
+      },
+      {
         "license_id": "LICENCIA_GENERAL",
         "cliente": "CLIENTE",
         "programa": "CUALQUIERA",
@@ -68,6 +68,6 @@
       }
     ]
   },
-  "signature": "b7ZN+3GEm2acWI5oW55VE4RrH4Cvq5FxwRJg559HlYOqB3l3QBLj50TBq+c8BBupBtkP2c//zRy0AfB30yRfc2/j/FC5w2BBDWzN5aiEz0wG44FvN5SvgiVX65G0pi1WqHlnLDBMvyV5VqRlOGb1txstM3oG22Zhmnz3jVaVzgum0Rl0ijnfRrFdNUb4WC7hg+2ArJsM+dij4qbZg6nBsL/K/A7snB3laORu/s2gaoAWRODfyAIH9jKLagpuf8tqdhA4yh9GnqdS2gNQvi2/CwzQxjBNmouAFoN5AnAe8JpbHBsbFM5RRrIK3Qmy/giiRXBp/QcrYTjYY+Vyc/wg4w==",
+  "signature": "fUggN05Yh73OdvBy66ZUA/w9cedt6Jfi4Gznf9sqoPp7eZ20RrKVHlKn9bYQCZ5+ZvQJqvcTGfwFdx1orw7G46q7e7PMRFyFal3DfHr1SFSPVMRJQq+26N401hfLc+6JFtCHuXqnBdBi7Gph7S1i+ABt951xQo+5s0QHXzK1ERMXTLVNblKI9+nCV9ok/GA/rLlxC1gk//MPsgxn8EReFWe1kG7H88pj1reo3IEasMeixTP0VYqfbFQCGBnisfVjtOBxLXTi4C87fI5B53VDi7UhuYqTt8BNd2jW2SYaGLV4QBDhPpEXGB/FR+9BZvGLBB0NnPpodtNap6SJ4SsvXw==",
   "signature_alg": "RSA-SHA256"
 }
