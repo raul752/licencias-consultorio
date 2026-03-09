@@ -2,10 +2,34 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-08T03:02:20Z",
+    "issued_at": "2026-03-09T06:13:04Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 86400,
     "licenses": [
+      {
+        "license_id": "HW_989A2EF0528C6C002780FE50",
+        "cliente": "CLIENTE",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "20/3/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_989A2EF0528C6C002780FE50",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 86400
+      },
+      {
+        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "cliente": "FRUTI",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "10/4/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 86400
+      },
       {
         "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
         "cliente": "CLIENTE",
@@ -43,18 +67,6 @@
         "offline_grace_seconds": 86400
       },
       {
-        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "cliente": "FRUTI",
-        "programa": "PRIMER_INICIO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "10/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
         "license_id": "LICENCIA_GENERAL",
         "cliente": "CLIENTE",
         "programa": "CUALQUIERA",
@@ -68,6 +80,6 @@
       }
     ]
   },
-  "signature": "fUggN05Yh73OdvBy66ZUA/w9cedt6Jfi4Gznf9sqoPp7eZ20RrKVHlKn9bYQCZ5+ZvQJqvcTGfwFdx1orw7G46q7e7PMRFyFal3DfHr1SFSPVMRJQq+26N401hfLc+6JFtCHuXqnBdBi7Gph7S1i+ABt951xQo+5s0QHXzK1ERMXTLVNblKI9+nCV9ok/GA/rLlxC1gk//MPsgxn8EReFWe1kG7H88pj1reo3IEasMeixTP0VYqfbFQCGBnisfVjtOBxLXTi4C87fI5B53VDi7UhuYqTt8BNd2jW2SYaGLV4QBDhPpEXGB/FR+9BZvGLBB0NnPpodtNap6SJ4SsvXw==",
+  "signature": "AGD9530wMyBkei8un98kE5NPP9pmwZg9ANQ3LGZ4OaOCyao3q6NRuAWaISFy8YbgFb9rl69iGA/95qHeG3+FcJHiXn6XSU41zqlDDeMw7IGX6x4hBY5ae0eJUBaMZNN8E+QrQd8Jhes7BgIf+qa36QGy94y8uKQV1symXjFhRKdlVLUcO40tBWnzmfag9N59s1Xkx3DHL6+Wdd1dX2PKPNwaynUil1XtgG3+eWyMjd1H7zxnUpHzIB8Gl4M2bFoxw6saHU5N4zUUkJHAsJii+Op0aDdJqnORZfe7dBJL4AjhiYHwiEUeM1WJJ6XHQuy+Z2G2qNc5wFc35nfVI3NG5Q==",
   "signature_alg": "RSA-SHA256"
 }
