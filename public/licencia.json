@@ -2,13 +2,13 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-09T06:13:04Z",
+    "issued_at": "2026-03-09T09:14:01Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 86400,
     "licenses": [
       {
         "license_id": "HW_989A2EF0528C6C002780FE50",
-        "cliente": "CLIENTE",
+        "cliente": "FRUTTI",
         "programa": "MEDICO",
         "estado": "ACTIVA",
         "fecha_vencimiento": "20/3/2026",
@@ -17,69 +17,9 @@
         "hardware_aliases": [],
         "activo": true,
         "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "cliente": "FRUTI",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "10/4/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_86C28570-976D-0000-0000-000000000000",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
-        "cliente": "CLIENTE",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "20/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_03AA02FC-0414-0577-EE06-C30700080009",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
-        "cliente": "SANTI",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "10/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_8502F718-2DE7-4B6F-318F-FC34976B41E4",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
-        "cliente": "GINO",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "20/3/2026",
-        "precio": "74.750",
-        "hardware_id": "PC_DESKTOP-JJ523RM_186_22_245_3",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "LICENCIA_GENERAL",
-        "cliente": "CLIENTE",
-        "programa": "CUALQUIERA",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "10/3/2026",
-        "precio": "74.750",
-        "hardware_id": "",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
       }
     ]
   },
-  "signature": "AGD9530wMyBkei8un98kE5NPP9pmwZg9ANQ3LGZ4OaOCyao3q6NRuAWaISFy8YbgFb9rl69iGA/95qHeG3+FcJHiXn6XSU41zqlDDeMw7IGX6x4hBY5ae0eJUBaMZNN8E+QrQd8Jhes7BgIf+qa36QGy94y8uKQV1symXjFhRKdlVLUcO40tBWnzmfag9N59s1Xkx3DHL6+Wdd1dX2PKPNwaynUil1XtgG3+eWyMjd1H7zxnUpHzIB8Gl4M2bFoxw6saHU5N4zUUkJHAsJii+Op0aDdJqnORZfe7dBJL4AjhiYHwiEUeM1WJJ6XHQuy+Z2G2qNc5wFc35nfVI3NG5Q==",
+  "signature": "qPBWBBSlbkj87EBvSeeEvr3kAgt0PSyApcHz4IcYz6SYXIqulgtO8kTk+OPMMXP3bqtHfyezht5hrXMJcPcbfostKA7L1u/NrlFY0ZuEKVHsujXpu3Dtl97h7rsVP7obyDpqpfPBxdkBw7XoFtbpVGbxypuc91N1bhuv38XvfFvMNiamMqeGz5EPr54OENBp9pjKS0Vm9I6LKJQJP5zfQOjX9dIRTs4HeShLi2Sno6bLGIXiCcb0zfCl39I7UPMBh5U/uEWQlRzdc2NzAmD4OS0xgZQlnPlDn9ftwcmv+4hyahxt/A0oMRkXAbhgyQ6Iyov04odwMs4UgW1PmysVOg==",
   "signature_alg": "RSA-SHA256"
 }
