@@ -2,10 +2,22 @@
   "provider": "github-pages",
   "payload": {
     "schema_version": 2,
-    "issued_at": "2026-03-09T23:09:55Z",
+    "issued_at": "2026-03-30T15:22:46Z",
     "cache_ttl_seconds": 60,
     "offline_grace_default_seconds": 86400,
     "licenses": [
+      {
+        "license_id": "HW_989A2EF0528C6C002780FE50",
+        "cliente": "FRUTTI",
+        "programa": "MEDICO",
+        "estado": "ACTIVA",
+        "fecha_vencimiento": "20/4/2026",
+        "precio": "74.750",
+        "hardware_id": "HW_989A2EF0528C6C002780FE50",
+        "hardware_aliases": [],
+        "activo": true,
+        "offline_grace_seconds": 86400
+      },
       {
         "license_id": "HW_29A0DDB1F9A23766CD4AC7BE",
         "cliente": "BRIAN",
@@ -29,21 +41,9 @@
         "hardware_aliases": [],
         "activo": true,
         "offline_grace_seconds": 86400
-      },
-      {
-        "license_id": "HW_989A2EF0528C6C002780FE50",
-        "cliente": "FRUTTI",
-        "programa": "MEDICO",
-        "estado": "ACTIVA",
-        "fecha_vencimiento": "20/3/2026",
-        "precio": "74.750",
-        "hardware_id": "HW_989A2EF0528C6C002780FE50",
-        "hardware_aliases": [],
-        "activo": true,
-        "offline_grace_seconds": 86400
       }
     ]
   },
-  "signature": "FES4luQxGCiyepU+azZ/pNZOYcdM/DIA+UWmb3hIK92Q6kYkaM0XocFgkg20uyvBXCWH6+Xh7rVh4Qxk0BcT0Ivk0TZYCAW0cABEcBYkx+3LmU7PidhYDunqoDqEK3BGY7q5f7JHjdX1HbQSc0C94LDG8N1RrTqhHPwOXKxsjUiMbSVphebBcbeT58p/61Hx2Xv9huiGr0Rh60FGIPCk7ZXbIFWKiI4MozgU5viUF0mSa2qlHtzQpYqNszJ+OZ/xc7caENCkdMYA0x+5AfYN6jpsEVNj1rXLcN9C30vH6xyF8pk94d7/R3oomONOndJSA7XFaF8pCB16N5xgx6jTwQ==",
+  "signature": "sYG+xyXOfruF/BOoPzG1KekY9EayxhzxmdeqEPGjncCzBn9WQikEFr1PJ/KcVYzu4SmYnLMDhUJ1D68/qsAmKUMRNa/UK/K8EoA6+xJSmA5sTz7dTsDDXzE8fUTPg6dUAbSzY/MDkctoft+xCt5ovka6duvZu++i1Q78DUFMcdrWiGOdB9WGrMqiUuoBL/Lg0aqAx8Wra6GEJAkfov4FI9zpDaRGEg9YrlFkyReoUaJtI93CWvwwzwEIH8XLDCYHpB6SBgKoUNtKYvzxtzJR9CRlOCz2iMfqBqhghQcV7bTW256ei7LqTGyov3j4OWVD6dGP1P6cqyhYsVg+QQUCoA==",
   "signature_alg": "RSA-SHA256"
 }
